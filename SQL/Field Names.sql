@@ -1,0 +1,1 @@
+DESCRIBE fact_sales;
